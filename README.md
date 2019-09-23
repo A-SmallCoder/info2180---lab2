@@ -1,2 +1,4 @@
-# info2180---lab2#INFO2180 Lab 2
-This is Lab 2 for Andrew-Lloyd Small
+#info Lab 2
+this is lab 2 for Andrew-lloyd Small
+##Branching
+Branching allows you to isolate development without affecting other branches in the repositpry. Each repository has one default brancj (usually called master), adn can have multiple other branches.
